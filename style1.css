@@ -1,0 +1,404 @@
+#principal{
+    background-image: url(04.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1920px;
+    height: 1080px;
+}
+#logo{
+    padding-left: 60px;
+    padding-top: 60px; 
+}
+#imagenPortada{
+    height: 15%;
+    width: 15%;
+}
+#lista{
+    padding-right: 30px;
+}
+#lista li{
+    font-family: Roboto;
+    font-style: bold;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    float: right;
+    margin-right: 10px;
+}
+#portada{
+    text-align: center;
+    margin-top: 500px;
+    font-family: Roboto;
+    color: white;
+}
+#portada h1{
+    font-size: 70px;
+}
+#portada p{ 
+    margin-top: 30px;
+    font-size: 45px;
+}
+#portada button{
+    color: white;
+    text-decoration: underline;
+    background-color: red;
+    font-size: 30px;
+    padding: 15px 20px;
+}
+
+#cuerpo{
+    font-family: Roboto;
+    font-style: bold;
+    width: 1920px;
+    height: 5080px;
+    background-color: white;
+}
+#cuerpo p{
+    font-size: 27px;
+    text-align:center;
+    color: rgb(97, 94, 94);
+}
+
+#uno{
+    width: 1600px;
+    height: 706px;
+    background-color: white;
+    margin: auto;
+    
+}
+#uno h3{
+    color: green;
+    font-size: 30px;
+
+}
+#left{
+    width: 400px;
+    height: 400px;
+    margin-left: 200px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    right: 100px;
+}
+#center{
+    width: 400px;
+    height: 400px;
+    margin-left: 600px;
+    text-align: center;
+    position: relative;
+    top: -300px;
+    left: 50px;
+}
+#right{
+    width: 400px;
+    height: 400px;
+    margin-left: 1200px;
+    text-align: center;
+    position: relative;
+    top: -700px;
+}
+#dos{
+    background-image: url(imagen2.jpeg);
+    background-repeat: no-repeat;
+    background-size:auto;
+    width: 1600px;
+    height: 802px;
+    margin: auto;
+    font-style: bold;
+    font-family: Roboto;
+    color: white;
+}
+
+#accesos {
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 200px;
+ 
+}
+#accesos h3{
+    color: white;
+    font-size: 25px;
+    width: 900px;
+    margin-top: 80px;
+}
+#botonAcceso button{
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    margin: border left;
+    margin-left: 150px;
+    position: relative;
+    margin-top: 15px;
+    top: 500px;
+    height: 80px;
+    width: 400px;
+}
+#barrados button{
+    background-color: white;
+    height: 250px;
+    position: relative;
+    margin-left: 650px;
+    margin-top: 230px;
+}
+#sube{
+    margin-left: 700px;
+    margin-top: -285px;
+}
+#sube h1{
+    color: white;
+    margin-top: 15px;
+   
+}
+#sube button{
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    margin: border center;
+    position: relative;
+    margin-top: 15px;
+   
+    height: 80px;
+    width: 300px;
+}
+
+
+#tres{
+    background-color: rgb(189, 188, 188);
+    width: 1600px;
+    height: 1074px;
+    margin: auto;
+    margin-top: -30px;
+}
+
+#tres #titulo{
+    color: rgb(151, 151, 151);
+    text-align: center;
+}
+
+#titulo h1{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(39, 39, 39);
+    padding-top: 40px;
+    font-style: bold;
+    font-family: Roboto;
+}
+#titulo h2{
+    font-size: 30px;
+    color: black;
+    font-style: bold;
+    font-family: Roboto;
+}
+
+#parques p{
+    padding: 10px 20px;
+    color: grey;
+    font-family: Roboto;
+}
+
+#parques h2{
+    font-size: 30px;
+}
+#img{
+    margin-top: -30px;
+}
+#parqueUno{
+    text-align: center;
+    margin-left: 100px;
+    background-color: white;
+    margin-right: 25px;
+    width: 300px;
+    height: 750px;
+    margin-top: 100px;
+
+}
+#parqueDos{
+    margin-left: 440px;
+    margin-top: -800px;
+    background-color: white;
+    width: 320px;
+    height: 800px;
+    text-align: center;
+}
+#parqueTres{
+    margin-left: 805px;
+    margin-top: -800px;
+    background-color: white;
+    width: 320px;
+    height: 800px;
+    text-align: center;
+}
+#parqueCuatro{
+    margin-left: 1170px;
+    margin-top: -800px;
+    background-color: white;
+    width: 320px;
+    height: 800px;
+    text-align: center;
+}
+
+#cuatro{
+    width: 1600px;
+    height: 463px;
+    margin: auto;
+    background-image: url(div4.png);
+    background-size: cover;
+}
+
+
+#noticias{
+    text-align: center;
+    color: white;
+    font-family: Roboto;
+    font-size: 26px;
+    padding-top: 50px;
+    
+}
+
+#sus{
+    background-color: white;
+    width: 600px;
+    height: 100px;
+    text-align: center;
+    margin-left: 500px;
+    margin-bottom: 60px;
+    
+}
+
+#sus button{
+    background-color: red;
+    width: 200px;
+    height: 50px;
+    margin-top: 25px;
+   
+}
+#correo{
+    width: 230px;
+}
+
+#cinco{
+    background-color: white;
+    width: 1600px;
+    margin: auto;
+    height: 881px;
+    font-family: Roboto;
+    
+    
+
+}
+#cinco img{
+    width: 480px;
+    height: 310px;
+    margin-top: 100px;
+}
+
+#notiuno{
+    width: 480px;
+    margin-left: 50px;
+}
+
+#notidos{
+    width: 480px;
+    margin-left: 580px;
+    margin-top: -845px;
+}
+
+#notitres{
+    width: 480px;
+    margin-left: 1110px;
+    margin-top: -847px;
+}
+
+#cinco .fecha{
+    color: red;
+    font-style: bold;
+    font-size: 20px;
+   text-align: left;
+}
+
+#cinco .pie{
+    text-decoration: underline;
+    font-style: bold;
+    color: black;
+    text-align: left;
+}
+
+#cinco h2{
+    text-align: left;
+}
+
+#cinco .texto{
+    text-align: left;
+}
+
+#seis{
+    background-image: url(imgsedes.jpg);
+    background-size: cover;
+    width: 1600px;
+    height: 804px;
+    margin: auto;
+    font-family: Roboto;
+}
+
+#sedes{
+    text-align: left;
+    color: white;
+}
+
+#sedes h1{
+    font-size: 50px;
+    padding-top: 80px;
+    padding-left: 150px;
+}
+
+#sedes h2{
+    font-size: 30px;
+    padding-left: 150px;
+}
+#sedes p{
+    text-align: left;
+    font-size: 20px;
+    color: white;
+    font-style: bold;
+    padding-left: 150px;
+
+}
+
+#siete{
+    
+        background-color: black;
+        color: white;
+        width: 1920px;
+        height: 746px;
+        margin-top: 30px;
+    
+}
+
+#siete #logoend{
+    padding-top: 80px;
+}
+
+#siete #contacto{
+    padding-top: 80px;
+    font-size: 26px;
+}
+#contacto h2{
+    font-size: 30px;
+}
+
+#listaend{
+    padding-right: 60px;
+}
+#listaend li{
+    position: relative;
+    font-family: Roboto;
+    font-style: bold;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    float: right;
+    margin-right: 40px;
+    padding-top: -300px;
+}
